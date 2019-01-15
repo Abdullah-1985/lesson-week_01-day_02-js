@@ -1,0 +1,45 @@
+part 1
+var numCh = 3;
+undefined
+var partNum = "C";
+undefined
+var gLoc = "Amstrdam";
+undefined
+var jobT = "Civil Engineer";
+undefined
+var future = "you will be a"+ jobT+ "in" + gLoc + "marriad to" + partNum + "N kids"+numCh
+undefined
+future
+"you will be aCivil EngineerinAmstrdammarriad toCN kids3"
+
+part 2
+var currentYear = 2019;
+undefined
+var birthYear = 1985;
+undefined
+var age = currentYear - birthYear;
+undefined
+console.log ("they are either"+ age+ " or " + (age -1));
+ they are either 34 or 33
+
+ part 3
+ var myAge = 33;
+
+var maxAge = 90;
+
+var dailyAmount = 2;
+
+var lifeAmount = ( (maxAge -myAge) * 2 * 365);
+
+var myNeed = " i will need" + lifeAmount " to last me until the ripe old age of" + maxAge;
+console.log(myNeed);
+
+part 5
+var celsius = 30;
+
+var conFahren = celsius *9/5+32;
+
+var conFahren = celsius *9/5+32;
+
+console.log(celsius +"°C" + conFahren +"°F");  
+ 30°C86°F
